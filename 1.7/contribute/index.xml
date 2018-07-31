@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contribute on PrestaShop Developer Documentation</title>
+    <link>https://devdocs.prestashop.com/1.7/contribute/</link>
+    <description>Recent content in Contribute on PrestaShop Developer Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jul 2018 18:38:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://devdocs.prestashop.com/1.7/contribute/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Become a Core Contributor using Docker</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/contribute_using_docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/contribute_using_docker/</guid>
+      <description>How to become a Core Contributor using Docker If you&amp;rsquo;re reading this, thank you! This means you&amp;rsquo;re interested on contributing to PrestaShop. You probably are a PrestaShop developer, and your use of the project is slighty different from ours. For instance, there are little differences between PrestaShop 1.7 (the release) and the branch 1.7 of PrestaShop in GitHub repository. This is because we create a release usable by everyone from our sources.</description>
+    </item>
+    
+    <item>
+      <title>Contribution guidelines</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/contribution-guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/contribution-guidelines/</guid>
+      <description>Contribution guidelines Ready to contribute code? Here&amp;rsquo;s what you need to know to get your Pull Request accepted.
+Commits Atomic commits In the past, we used to have only one commit by pull request. This was a bad habit. We now require contributors to make atomic commits, so you will surely have more than one commit in a single pull request. This will be helpful to review, cherry-pick or revert changes (we hope to never have to do that 😉).</description>
+    </item>
+    
+    <item>
+      <title>How to use the Forge to contribute to PrestaShop</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/contribute-reporting-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/contribute-reporting-issues/</guid>
+      <description>How to use the Forge to contribute to PrestaShop The Forge is the name of PrestaShop&amp;rsquo;s bug and issue tracker, which uses Atlassian&amp;rsquo;s JIRA tool. This is the best place to describe bugs you are witnessing on your PrestaShop installation, and have the developers try to fix it.
+Creating your account In order to participate, you need to create an account to use the bug tracker.
+Create your account here.</description>
+    </item>
+    
+  </channel>
+</rss>
